@@ -7,4 +7,4 @@ The data sets analysed are the following:
 * Rice yellow mottle virus (RYMV) data set from [Trovao et al., 2015](https://doi.org/10.1093/molbev/msv185)
 
 Files marked *fixed* assume a provided or user-defined tree topology, whereas files marked *variable* estimate the tree topology during the analysis.
-Files marked *BUMCMC* employ a block-update Markov chain Monte Carlo transition kernel [Gill et al., 2013](https://doi.org/10.1093/molbev/mss265), whereas files marked *HMC* employ the Hamiltonian Monte Carlo transition kernel discussed in our manuscript.
+Files marked *BUMCMC* employ a block-update Markov chain Monte Carlo transition kernel developed by [Gill et al., 2013](https://doi.org/10.1093/molbev/mss265), whereas files marked *HMC* employ the Hamiltonian Monte Carlo transition kernel discussed in our manuscript.
